@@ -28,7 +28,7 @@
         "maxhoffmann/parsedown-laravel": "dev-master",
         "mcamara/laravel-localization": "~1.2",
         "mews/purifier": "~2.0",
-        "milon/barcode": "~5.3",
+        "milon/barcode": "~6.0",
         "nitmedia/wkhtml2pdf": "dev-master",
         "omnipay/common": "~3",
         "omnipay/dummy": "~3",
