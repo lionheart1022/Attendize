@@ -14,7 +14,7 @@
         "intervention/image": "dev-master",
         "maatwebsite/excel": "~2.1",
         "dompdf/dompdf": "dev-master",
-        "laravel/socialite": "~2.0",
+        "laravel/socialite": "~3.4",
         "filp/whoops": "~1.0",
         "mews/purifier": "~2.0",
         "league/flysystem-aws-s3-v3" : "~1.0",
