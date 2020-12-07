@@ -10,7 +10,7 @@
         "laravel/framework": "5.4.*",
         "laravelcollective/html": "dev-54fixes",
         "milon/barcode": "dev-master",
-        "iron-io/iron_mq": "2.*",
+        "iron-io/iron_mq": "4.*",
         "intervention/image": "dev-master",
         "maatwebsite/excel": "~2.1",
         "dompdf/dompdf": "dev-master",
