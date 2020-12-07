@@ -15,7 +15,7 @@
         "maatwebsite/excel": "~2.1",
         "dompdf/dompdf": "dev-master",
         "laravel/socialite": "~2.0",
-        "filp/whoops": "~1.0",
+        "filp/whoops": "~2.9",
         "mews/purifier": "~2.0",
         "league/flysystem-aws-s3-v3" : "~1.0",
         "maxhoffmann/parsedown-laravel": "dev-master",
